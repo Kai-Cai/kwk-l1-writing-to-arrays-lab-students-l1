@@ -26,3 +26,4 @@ def add_colors
   puts rainbow_colors
 end
 
+add_colors
