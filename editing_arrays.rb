@@ -1,10 +1,10 @@
-rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cyan"
-]
+# rainbow_colors = [
+#   "yellow",
+#   "default",
+#   "light_cyan"
+# ]
 
-puts rainbow_colors
+# puts rainbow_colors
 
 
 def change_rainbow_colors
